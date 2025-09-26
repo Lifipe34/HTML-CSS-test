@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    height: 100vh;
+    font-size: 50px;
+}
+
+.container{
+    color: rgb(238, 6, 6) 5px;
+    background-color: rgb(169, 35, 35);
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    width: 500px;
+    height: 500px;
+    border: solid wheat;
+    border-radius: 20px;   
+}
+.container:hover{
+     background-color: green;
+}
